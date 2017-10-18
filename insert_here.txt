@@ -6,3 +6,5 @@ Geht ein Informatiker in ne Bar.
 Ein Informatikerpaar spaziert durch den Park. Läuft eine ältere Dame vorbei und fragt: "Mädchen oder Junge" -> true.
 
 MAC
+
+jedes mal Mastrubieren verlänert das leben um 5 minuten - Harry Skarioski, Informatiker, 153
