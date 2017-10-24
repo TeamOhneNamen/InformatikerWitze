@@ -1,10 +1,12 @@
-Warum programmieren angewandte Informatiker objektorientiert?
-Weil sie Klasse haben
+1.  Warum programmieren angewandte Informatiker objektorientiert?
+    Weil sie Klasse haben
 
-Geht ein Informatiker in ne Bar.
+2.  Geht ein Informatiker in ne Bar.
 
-Ein Informatikerpaar spaziert durch den Park. Läuft eine ältere Dame vorbei und fragt: "Mädchen oder Junge" -> true.
+3.  Ein Informatikerpaar spaziert durch den Park. Läuft eine ältere Dame vorbei und fragt: "Mädchen oder Junge" -> true.
 
-MAC
+4.  MAC
 
-jedes mal Mastrubieren verlänert das leben um 5 minuten - Harry Skarioski, Informatiker, 153
+5.  jedes mal Mastrubieren verlänert das leben um 5 minuten - Harry Skarioski, Informatiker, 153
+
+6.  Wie implementiere ich ein Fischgericht? - Mit C Shark.
